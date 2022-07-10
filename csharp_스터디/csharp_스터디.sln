@@ -71,7 +71,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8958_OX퀴즈", "8958_OX퀴
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11557_Yangjojang of The Year", "11557_Yangjojang of The Year\11557_Yangjojang of The Year.csproj", "{EFFFAC9D-F4F6-49D1-AD3D-B1C1957B891B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9506_약수들의 합", "9506_약수들의 합\9506_약수들의 합.csproj", "{5BDB87BB-42D1-4089-98E0-DBC7DD399004}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9506_약수들의 합", "9506_약수들의 합\9506_약수들의 합.csproj", "{5BDB87BB-42D1-4089-98E0-DBC7DD399004}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10162_전자레인지", "10162_전자레인지\10162_전자레인지.csproj", "{F26A5992-4758-4D47-948B-752CE1B077CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +221,10 @@ Global
 		{5BDB87BB-42D1-4089-98E0-DBC7DD399004}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BDB87BB-42D1-4089-98E0-DBC7DD399004}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BDB87BB-42D1-4089-98E0-DBC7DD399004}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F26A5992-4758-4D47-948B-752CE1B077CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F26A5992-4758-4D47-948B-752CE1B077CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F26A5992-4758-4D47-948B-752CE1B077CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F26A5992-4758-4D47-948B-752CE1B077CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
