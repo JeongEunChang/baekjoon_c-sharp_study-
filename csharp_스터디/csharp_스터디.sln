@@ -73,7 +73,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11557_Yangjojang of The Yea
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9506_약수들의 합", "9506_약수들의 합\9506_약수들의 합.csproj", "{5BDB87BB-42D1-4089-98E0-DBC7DD399004}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10162_전자레인지", "10162_전자레인지\10162_전자레인지.csproj", "{F26A5992-4758-4D47-948B-752CE1B077CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10162_전자레인지", "10162_전자레인지\10162_전자레인지.csproj", "{F26A5992-4758-4D47-948B-752CE1B077CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10757_큰 수 A+B", "10757_큰 수 A+B\10757_큰 수 A+B.csproj", "{38BF1897-4E82-44B5-A52C-08C19EF44DBE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -225,6 +227,10 @@ Global
 		{F26A5992-4758-4D47-948B-752CE1B077CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F26A5992-4758-4D47-948B-752CE1B077CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F26A5992-4758-4D47-948B-752CE1B077CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38BF1897-4E82-44B5-A52C-08C19EF44DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38BF1897-4E82-44B5-A52C-08C19EF44DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38BF1897-4E82-44B5-A52C-08C19EF44DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38BF1897-4E82-44B5-A52C-08C19EF44DBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
