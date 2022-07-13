@@ -75,7 +75,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9506_약수들의 합", "95
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10162_전자레인지", "10162_전자레인지\10162_전자레인지.csproj", "{F26A5992-4758-4D47-948B-752CE1B077CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10757_큰 수 A+B", "10757_큰 수 A+B\10757_큰 수 A+B.csproj", "{38BF1897-4E82-44B5-A52C-08C19EF44DBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10757_큰 수 A+B", "10757_큰 수 A+B\10757_큰 수 A+B.csproj", "{38BF1897-4E82-44B5-A52C-08C19EF44DBE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic", "Generic\Generic.csproj", "{D1E103D0-C949-41C1-B5CB-E14F5CBC919E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2621_카드게임", "2621_카드게임\2621_카드게임.csproj", "{75711FD6-92D4-498C-BAB8-260EB5DF0102}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -231,6 +235,14 @@ Global
 		{38BF1897-4E82-44B5-A52C-08C19EF44DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38BF1897-4E82-44B5-A52C-08C19EF44DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38BF1897-4E82-44B5-A52C-08C19EF44DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E103D0-C949-41C1-B5CB-E14F5CBC919E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E103D0-C949-41C1-B5CB-E14F5CBC919E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E103D0-C949-41C1-B5CB-E14F5CBC919E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E103D0-C949-41C1-B5CB-E14F5CBC919E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75711FD6-92D4-498C-BAB8-260EB5DF0102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75711FD6-92D4-498C-BAB8-260EB5DF0102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75711FD6-92D4-498C-BAB8-260EB5DF0102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75711FD6-92D4-498C-BAB8-260EB5DF0102}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
