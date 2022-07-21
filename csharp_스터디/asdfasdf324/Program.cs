@@ -15,8 +15,6 @@ namespace study
             //B = tmpInput[1].ToCharArray();
             ////string A = tmpInput[0];
             ////string B = tmpInput[1];
-            int a = 3;
-            bool[] arr = new bool[3];
             WriteLine(arr[2]);
         }
     }

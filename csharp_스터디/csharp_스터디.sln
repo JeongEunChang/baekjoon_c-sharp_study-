@@ -83,7 +83,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2621_카드게임", "2621_�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1747_소수 and 팰린드롬", "1747_소수 and 팰린드롬\1747_소수 and 팰린드롬.csproj", "{C56FB6EF-352D-4CEF-8D8E-2BF50515DF11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1652_누울 자리를 찾아라", "1652_누울 자리를 찾아라\1652_누울 자리를 찾아라.csproj", "{55F809F0-5408-485F-881D-C4E09096F8A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1652_누울 자리를 찾아라", "1652_누울 자리를 찾아라\1652_누울 자리를 찾아라.csproj", "{55F809F0-5408-485F-881D-C4E09096F8A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegate", "Delegate\Delegate.csproj", "{84D0EA60-9610-4282-A071-235C452060AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1110_더하기 사이클", "1110_더하기 사이클\1110_더하기 사이클.csproj", "{5F5DF0D4-8DBA-429B-AD6A-A3068AD22457}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -255,6 +259,14 @@ Global
 		{55F809F0-5408-485F-881D-C4E09096F8A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55F809F0-5408-485F-881D-C4E09096F8A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55F809F0-5408-485F-881D-C4E09096F8A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84D0EA60-9610-4282-A071-235C452060AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D0EA60-9610-4282-A071-235C452060AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D0EA60-9610-4282-A071-235C452060AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D0EA60-9610-4282-A071-235C452060AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F5DF0D4-8DBA-429B-AD6A-A3068AD22457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F5DF0D4-8DBA-429B-AD6A-A3068AD22457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F5DF0D4-8DBA-429B-AD6A-A3068AD22457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F5DF0D4-8DBA-429B-AD6A-A3068AD22457}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
