@@ -87,7 +87,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1652_누울 자리를 찾�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegate", "Delegate\Delegate.csproj", "{84D0EA60-9610-4282-A071-235C452060AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1110_더하기 사이클", "1110_더하기 사이클\1110_더하기 사이클.csproj", "{5F5DF0D4-8DBA-429B-AD6A-A3068AD22457}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1110_더하기 사이클", "1110_더하기 사이클\1110_더하기 사이클.csproj", "{5F5DF0D4-8DBA-429B-AD6A-A3068AD22457}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8979_올림픽", "8979_올림픽\8979_올림픽.csproj", "{17FF4EF9-87A8-4B4C-826B-954DA896DB7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -267,6 +269,10 @@ Global
 		{5F5DF0D4-8DBA-429B-AD6A-A3068AD22457}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F5DF0D4-8DBA-429B-AD6A-A3068AD22457}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F5DF0D4-8DBA-429B-AD6A-A3068AD22457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17FF4EF9-87A8-4B4C-826B-954DA896DB7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17FF4EF9-87A8-4B4C-826B-954DA896DB7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17FF4EF9-87A8-4B4C-826B-954DA896DB7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17FF4EF9-87A8-4B4C-826B-954DA896DB7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
