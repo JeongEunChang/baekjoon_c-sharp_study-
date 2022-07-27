@@ -91,7 +91,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1110_더하기 사이클", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8979_올림픽", "8979_올림픽\8979_올림픽.csproj", "{17FF4EF9-87A8-4B4C-826B-954DA896DB7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2816_디지털 티비", "2816_디지털 티비\2816_디지털 티비.csproj", "{4AB0A161-41AC-4A97-AB4E-99EF178BE16C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2816_디지털 티비", "2816_디지털 티비\2816_디지털 티비.csproj", "{4AB0A161-41AC-4A97-AB4E-99EF178BE16C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11724_연결 요소의 개수", "11724_연결 요소의 개수\11724_연결 요소의 개수.csproj", "{B6FB235B-1F36-420F-94E0-E64F7C16E399}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -279,6 +281,10 @@ Global
 		{4AB0A161-41AC-4A97-AB4E-99EF178BE16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AB0A161-41AC-4A97-AB4E-99EF178BE16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AB0A161-41AC-4A97-AB4E-99EF178BE16C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6FB235B-1F36-420F-94E0-E64F7C16E399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6FB235B-1F36-420F-94E0-E64F7C16E399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6FB235B-1F36-420F-94E0-E64F7C16E399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6FB235B-1F36-420F-94E0-E64F7C16E399}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
